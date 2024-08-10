@@ -17,7 +17,7 @@ export const Terms = () => {
                 1. Use of the Website
             </h2>
             <p className="font-semibold text-l leading-7">
-                <b className="text-yellow-900 font-bold">1.1 Eligibility: </b> You must be at least 7 years old to use our services. By using our website, you represent and warrant that you are at least 7 years old.
+                <b className="text-yellow-900 font-bold">1.1 Eligibility: </b> There is no such eligibility criteria to use our services.
                 <br></br>
                 <b className="text-yellow-900 font-bold">1.2 License: </b>We grant you a limited, non-exclusive, non-transferable, and revocable license to access and use our website for personal, non-commercial purposes.
             </p>

@@ -1,8 +1,21 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Book Finder Application
 
-Currently, two official plugins are available:
+A simple website designed to help you discover your next read and find book recommendations. An internship project of [iNeuron](https://ineuron.com).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Live Demo](https://book-finder-application.vercel.app/)
+
+## Built with:
+
+- ReactJS
+- Tailwind CSS
+- Google Books API
+
+## Documentation
+
+Documentation is available
+[here](./docs/).
+
+
+# Author
+[Aman Sinha](https://github.com/amansinha5224)
